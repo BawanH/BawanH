@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BawanH
+- 👋 Hi, I’m @Bawan
 - 👀 I’m interested in computers, programming, arts, sports
 - 🌱 I’m currently learning how to program fra scratch
 
