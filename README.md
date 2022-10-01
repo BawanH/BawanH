@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bawan
-- 👀 I’m interested in computers, programming, arts, sports
+- 👀 I’m interested in computers and art
 - 🌱 Always curious and trying to learn
 
 <!---
