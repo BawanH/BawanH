@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bawan
-- 👀 I’m interested in computers and art
-- 🌱 Always curious and trying to learn
+- 👋 Hi, @Bawan
+- 👀 
+- 🌱 
 
 <!---
 BawanH/BawanH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
